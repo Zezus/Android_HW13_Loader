@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/HW_13_Loader.iml" filepath="$PROJECT_DIR$/.idea/HW_13_Loader.iml" />
+      <module fileurl="file://D:\Android\Home_Work\HW_13_Loader\Module9Hw.iml" filepath="D:\Android\Home_Work\HW_13_Loader\Module9Hw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\Android\Home_Work\HW_13_Loader\app\app.iml" filepath="D:\Android\Home_Work\HW_13_Loader\app\app.iml" />
+    </modules>
+  </component>
+</project>
